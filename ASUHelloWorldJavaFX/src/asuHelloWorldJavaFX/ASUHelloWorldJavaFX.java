@@ -13,6 +13,7 @@ public class ASUHelloWorldJavaFX extends Application {
         launch(args);
     }
     
+    //gang
     public void start(Stage primaryStage) {
     	System.out.println("ASU Hello World!");
     	System.out.println("It started!");
